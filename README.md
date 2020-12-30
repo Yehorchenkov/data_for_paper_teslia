@@ -1,1 +1,1 @@
-# data_for_paper_teslia
+Data for experiments of a paper  "EXPERIMENTAL VERIFICATION OF GENERAL VALIDITY OF NON-FORCE (INFORMATIONAL) INTERACTION FORMULAE RECEIVED FROM INFORMATION-PROBABILISTIC INTERPRETATION OF MECHANICAL MOVEMENT" , author - doctor of engineering science, professor Iurii Teslia, Ukraine.
